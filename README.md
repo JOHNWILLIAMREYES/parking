@@ -29,7 +29,10 @@ Start the server
 ```bash
   npm run dev
 ```
-
+Install database
+```bash
+  It is a database mysql
+```
 
 ## API Reference
 
